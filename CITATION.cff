@@ -7,3 +7,11 @@ year: 2026
 version: "2026g"
 message: "If you use this package, please cite the associated manuscript and Zenodo archive."
 doi: "10.5281/zenodo.19915433"
+preferred-citation:
+  type: article
+  title: "Section-Specific Structural Zoning in the Voynich Manuscript: Global versus Section-Conditioned Models of Token Formation"
+  authors:
+    - family-names: "Chang"
+      given-names: "Youngsan"
+  year: 2026
+  doi: "10.5281/zenodo.19916567"

@@ -1,11 +1,14 @@
 # MANIFEST
 
+Associated paper DOI: https://doi.org/10.5281/zenodo.19916567
+Zenodo package concept DOI: https://doi.org/10.5281/zenodo.19915433
+
 | Path | Type | Size bytes | Role | Description |
 | --- | --- | ---: | --- | --- |
-| `CITATION.cff` | cff | 366 | package metadata | package metadata |
+| `CITATION.cff` | cff | 650 | package metadata | package metadata |
 | `LICENSE` | none | 417 | package metadata | package metadata |
-| `MISSING_FILES_REPORT.md` | md | 1138 | package metadata | package metadata |
-| `README.md` | md | 4982 | package metadata | package metadata |
+| `MISSING_FILES_REPORT.md` | md | 1219 | package metadata | package metadata |
+| `README.md` | md | 5045 | package metadata | package metadata |
 | `data/metadata/section_metadata.csv` | csv | 16846 | metadata | metadata |
 | `data/processed/folio_change_point_scores.csv` | csv | 29775 | processed data | processed data |
 | `data/processed/folio_feature_matrix.csv` | csv | 92652 | processed data | processed data |
@@ -36,7 +39,7 @@
 | `docs/INTERPRETATION_GUARDRAILS.md` | md | 663 | documentation | documentation |
 | `docs/PAPER6_ADVANCED_EXPERIMENT_SUMMARY.md` | md | 3122 | documentation | documentation |
 | `docs/PAPER6_EXPERIMENT_SUMMARY.md` | md | 2552 | documentation | documentation |
-| `docs/ZENODO_UPLOAD_NOTES.md` | md | 311 | documentation | documentation |
+| `docs/ZENODO_UPLOAD_NOTES.md` | md | 462 | documentation | documentation |
 | `docs/advanced_exp1_global_vs_section_pcs.md` | md | 404 | documentation | documentation |
 | `docs/advanced_exp2_cross_section_transfer.md` | md | 959 | documentation | documentation |
 | `docs/advanced_exp3_inventory_vs_ordering.md` | md | 277 | documentation | documentation |
@@ -47,15 +50,16 @@
 | `docs/advanced_figure_captions.md` | md | 1268 | documentation | documentation |
 | `docs/advanced_results_paragraphs.md` | md | 3028 | documentation | documentation |
 | `docs/advanced_table_captions.md` | md | 801 | documentation | documentation |
-| `docs/doi_update_summary.json` | json | 1048 | documentation | documentation |
+| `docs/doi_update_summary.json` | json | 1117 | documentation | documentation |
+| `docs/external_data_update_summary.json` | json | 817 | documentation | documentation |
 | `docs/figure_captions.md` | md | 1450 | documentation | documentation |
 | `docs/final_figure_captions.md` | md | 1449 | documentation | documentation |
-| `docs/final_github_check_summary.json` | json | 1174 | documentation | documentation |
+| `docs/final_github_check_summary.json` | json | 1243 | documentation | documentation |
 | `docs/final_manuscript_placeholders.md` | md | 2373 | documentation | documentation |
 | `docs/final_table_captions.md` | md | 1908 | documentation | documentation |
 | `docs/final_table_figure_insertion_plan.md` | md | 2102 | documentation | documentation |
-| `docs/metadata.json` | json | 1500 | documentation | documentation |
-| `docs/package_build_summary.json` | json | 2125 | documentation | documentation |
+| `docs/metadata.json` | json | 1946 | documentation | documentation |
+| `docs/package_build_summary.json` | json | 2194 | documentation | documentation |
 | `docs/paper6_final_render_check.md` | md | 1044 | documentation | documentation |
 | `docs/paper6_revised_research_questions.md` | md | 686 | documentation | documentation |
 | `docs/renumbering_replace_guide.md` | md | 1489 | documentation | documentation |
@@ -103,7 +107,7 @@
 | `outputs/qc/final_assets_check_report.md` | md | 1812 | QC report | QC report |
 | `outputs/qc/input_file_report.md` | md | 633 | QC report | QC report |
 | `outputs/qc/minimum_sample_check.md` | md | 532 | QC report | QC report |
-| `outputs/qc/package_validation_report.md` | md | 2017 | QC report | QC report |
+| `outputs/qc/package_validation_report.md` | md | 2098 | QC report | QC report |
 | `outputs/qc/section_classification_model_update_report.md` | md | 952 | QC report | QC report |
 | `outputs/qc/section_metadata_check.md` | md | 519 | QC report | QC report |
 | `outputs/tables/supplementary_table_s1_distinctive_tokens_by_section.csv` | csv | 3141 | table output | table output |

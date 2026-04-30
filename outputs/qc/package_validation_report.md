@@ -37,3 +37,7 @@
 - `data/raw/ZL3b-n.txt` is not redistributed.
 - Users must obtain the Zandbergen-Landini EVA transcription (ZL3b) from the original source and place it at `data/raw/ZL3b-n.txt` before rerunning analyses from raw text.
 - This is classified as external required data, not a package-internal missing critical file.
+
+## DOI Records
+
+- Associated paper DOI: https://doi.org/10.5281/zenodo.19916567

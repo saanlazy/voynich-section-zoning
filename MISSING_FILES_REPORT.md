@@ -28,3 +28,7 @@ No package-internal critical files are missing. Raw-text regeneration requires t
 - Exact latest Markdown source matching the DOCX/PDF was not found.
 - The package includes the latest DOCX/PDF under `manuscript/`.
 - No manuscript text was reconstructed or rewritten.
+
+## DOI Records
+
+- Associated paper DOI: https://doi.org/10.5281/zenodo.19916567

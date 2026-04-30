@@ -30,7 +30,19 @@
       "identifier": "https://doi.org/10.5281/zenodo.19876003",
       "relation": "isSupplementTo",
       "resource_type": "software"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.19916567",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.19915433",
+      "relation": "isIdenticalTo",
+      "resource_type": "software"
     }
   ],
-  "notes": "DOI for this package is pending Zenodo deposition. This package supports a section-specific extension of the global multi-level framework presented in Chang 2026f."
+  "notes": "DOI for this package is pending Zenodo deposition. This package supports a section-specific extension of the global multi-level framework presented in Chang 2026f.",
+  "associated_paper_doi": "https://doi.org/10.5281/zenodo.19916567",
+  "zenodo_package_concept_doi": "https://doi.org/10.5281/zenodo.19915433"
 }

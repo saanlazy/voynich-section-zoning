@@ -102,6 +102,8 @@ AI-based tools assisted with code implementation, figure generation, manuscript 
 
 Zenodo package concept DOI: https://doi.org/10.5281/zenodo.19915433
 
+Associated paper DOI: https://doi.org/10.5281/zenodo.19916567
+
 The reproduction package concept DOI has been assigned by Zenodo. No fabricated DOI values are used.
 
 ## Citation

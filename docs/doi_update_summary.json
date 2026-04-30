@@ -26,5 +26,6 @@
   },
   "raw_zl3b_redistributed": false,
   "data_source_note": "ZL3b-n.txt is third-party source data and must be obtained separately.",
-  "zip_excludes_raw_zl3b": true
+  "zip_excludes_raw_zl3b": true,
+  "associated_paper_doi": "https://doi.org/10.5281/zenodo.19916567"
 }

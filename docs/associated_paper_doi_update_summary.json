@@ -1,0 +1,29 @@
+{
+  "paper_doi_in_readme": true,
+  "package_doi_in_readme": true,
+  "citation_has_package_doi": true,
+  "citation_has_preferred": true,
+  "updated_files": [
+    "CITATION.cff",
+    "MANIFEST.md",
+    "MISSING_FILES_REPORT.md",
+    "README.md",
+    "SHA256SUMS.txt",
+    "docs/ZENODO_UPLOAD_NOTES.md",
+    "docs/doi_update_summary.json",
+    "docs/external_data_update_summary.json",
+    "docs/final_github_check_summary.json",
+    "docs/metadata.json",
+    "docs/package_build_summary.json",
+    "outputs/qc/package_validation_report.md"
+  ],
+  "zip_path": "/Users/admin/.gemini/antigravity/codex/voynich-section-zoning.zip",
+  "zip_sha256": "69af331ee495dc17760c13724aea759e12b0319ed4fff30b5a13e8c428dfa100",
+  "zip_has_git": false,
+  "zip_has_ds_store": false,
+  "zip_has_pycache": false,
+  "zip_has_pyc": false,
+  "zip_has_log": false,
+  "zip_has_zl3b": false,
+  "zip_file_count": 158
+}

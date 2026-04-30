@@ -19,5 +19,7 @@
   "zip_has_log": false,
   "zip_has_zl3b": false,
   "zip_has_gitkeep": true,
-  "zip_file_count": 157
+  "zip_file_count": 157,
+  "associated_paper_doi": "https://doi.org/10.5281/zenodo.19916567",
+  "zenodo_package_concept_doi": "https://doi.org/10.5281/zenodo.19915433"
 }

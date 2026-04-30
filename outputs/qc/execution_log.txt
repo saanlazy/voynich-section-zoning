@@ -1,0 +1,8 @@
+Paper 6 pipeline start: Wed Apr 29 19:18:59 2026
+Input: /Users/admin/.gemini/antigravity/codex/paper6_section_zoning_work/data/ZL3b-n.txt
+Seed: 42
+Requested iterations: 1000
+Parsed tokens: 37600
+Parsed lines: 5303
+Sections: astronomical_zodiac, biological_balneological, cosmological, herbal, pharmaceutical, recipes_stars, unknown
+Elapsed seconds: 144.91

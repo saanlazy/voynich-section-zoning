@@ -1,0 +1,10 @@
+                                        condition                           target_result                      metric         value                        status                              note
+                                     all_sections                   lowest H(suffix|core)    biological_balneological      0.382265            robust/descriptive   computed from included sections
+                                     all_sections                     highest suffix top1    biological_balneological      0.902792            robust/descriptive   computed from included sections
+                                 unknown_excluded                   lowest H(suffix|core)    biological_balneological      0.382265            robust/descriptive   computed from included sections
+                                 unknown_excluded                     highest suffix top1    biological_balneological      0.902792            robust/descriptive   computed from included sections
+low_count_sections_excluded_threshold_1000_tokens                   lowest H(suffix|core)    biological_balneological      0.382265            robust/descriptive   computed from included sections
+low_count_sections_excluded_threshold_1000_tokens                     highest suffix top1    biological_balneological      0.902792            robust/descriptive   computed from included sections
+                           low_certainty_excluded                       section variation                not computed not available low-confidence/not applicable    fewer than two usable sections
+                 token_count_matched_downsampling biological_balneological H(suffix|core)      mean over downsampling      0.283539                        robust downsampled to 846 tokens; N=1000
+               section_label_permutation_baseline                 classification macro-F1 nearest_centroid_structural      0.642929                        robust                empirical p=0.0010

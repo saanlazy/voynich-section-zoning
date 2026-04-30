@@ -1,0 +1,24 @@
+{
+  "new_pkg": "/Users/admin/.gemini/antigravity/codex/voynich-section-zoning",
+  "new_zip": "/Users/admin/.gemini/antigravity/codex/voynich-section-zoning.zip",
+  "pdf": "manuscript/Chang_2026g_Voynich_Section_Zoning.pdf",
+  "docx": "manuscript/Chang_2026g_Voynich_Section_Zoning.docx",
+  "updated": [
+    "MANIFEST.md",
+    "SHA256SUMS.txt",
+    "docs/package_build_summary.json"
+  ],
+  "sha_regenerated": true,
+  "zip_sha256": "6fdb19ceca8452c52e1d146c13fa82f430664706b00425f0b8465689149d92e2",
+  "issues": [],
+  "placeholder_hits": [
+    "README.md",
+    "scripts/build_paper6_final_manuscript.py"
+  ],
+  "readme_claim_hits": [
+    "confirmed syntax"
+  ],
+  "temp_files": [],
+  "zip_size": 3523786,
+  "zip_file_count": 154
+}

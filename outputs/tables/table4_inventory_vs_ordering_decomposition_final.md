@@ -1,0 +1,9 @@
+| section_label | real_bigram_entropy | section_internal_shuffled_entropy | global_shuffled_entropy | inventory_matched_shuffled_entropy | line_internal_shuffled_entropy | inventory_contribution | ordering_contribution | line_ordering_contribution | ordering_to_inventory_ratio | iterations |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| herbal | 12.9716 | 13.0706 | 13.1165 | 13.0706 | 13.0334 | 0.0459891 | 0.0989938 | 0.0618872 | 2.15255 | 1000 |
+| astronomical_zodiac | 9.23896 | 9.24343 | 9.23922 | 9.24343 | 9.24117 | -0.00420703 | 0.00446825 | 0.00220409 | -1.06209 | 1000 |
+| biological_balneological | 11.9254 | 12.1306 | 12.3434 | 12.1306 | 12.0876 | 0.212735 | 0.205222 | 0.162206 | 0.964686 | 1000 |
+| cosmological | 10.3091 | 10.3383 | 10.3408 | 10.3383 | 10.3312 | 0.00257416 | 0.0291656 | 0.0220724 | 11.3301 | 1000 |
+| pharmaceutical | 10.8202 | 10.869 | 10.8901 | 10.869 | 10.8413 | 0.0211348 | 0.0488001 | 0.0211648 | 2.30899 | 1000 |
+| recipes_stars | 13.0103 | 13.1279 | 13.1464 | 13.1279 | 13.1049 | 0.0185656 | 0.117541 | 0.0945997 | 6.33108 | 1000 |
+| unknown | 11.8709 | 11.9416 | 11.935 | 11.9416 | 11.9217 | -0.00658846 | 0.0706649 | 0.0507683 | -10.7256 | 1000 |

@@ -1,0 +1,44 @@
+{
+  "package_folder": "/Users/admin/.gemini/antigravity/codex/voynich-section-zoning",
+  "zip_path": "/Users/admin/.gemini/antigravity/codex/voynich-section-zoning.zip",
+  "zip_file_count": 154,
+  "package_file_count": 153,
+  "zip_size_bytes": 3521930,
+  "zip_sha256": "7b38c02c9734fd0b8377010118d2b5f8c22e60e02d2c64a2fcd31a64a2bdfa04",
+  "search_hits": {
+    "scikit-learn was not available": [],
+    "not computed; sklearn not available": [],
+    "Because scikit-learn was not available": [],
+    "logistic regression, random forest, and linear SVM were not computed": [],
+    "deciphered": [
+      "docs/metadata.json",
+      "scripts/paper6_section_zoning_pipeline.py",
+      "scripts/build_paper6_final_manuscript.py",
+      "outputs/qc/package_validation_report.md"
+    ],
+    "translated": [
+      "scripts/build_paper6_final_manuscript.py",
+      "data/raw/ZL3b-n.txt",
+      "outputs/qc/package_validation_report.md"
+    ],
+    "source language identified": [
+      "scripts/paper6_section_zoning_pipeline.py",
+      "scripts/build_paper6_final_manuscript.py",
+      "outputs/qc/package_validation_report.md"
+    ],
+    "confirmed syntax": [
+      "README.md",
+      "docs/PAPER6_EXPERIMENT_SUMMARY.md",
+      "docs/results_paragraphs.md",
+      "docs/PAPER6_ADVANCED_EXPERIMENT_SUMMARY.md",
+      "docs/advanced_results_paragraphs.md",
+      "scripts/paper6_section_zoning_pipeline.py",
+      "scripts/build_paper6_final_manuscript.py",
+      "scripts/paper6_advanced_experiments.py",
+      "outputs/qc/advanced_interpretation_guardrails.md",
+      "outputs/qc/package_validation_report.md"
+    ]
+  },
+  "manuscript_docx_exists": true,
+  "manuscript_pdf_exists": true
+}

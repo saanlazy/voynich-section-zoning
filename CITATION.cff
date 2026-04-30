@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Section-Specific Structural Zoning in the Voynich Manuscript: Global versus Section-Conditioned Models of Token Formation"
+authors:
+  - family-names: "Chang"
+    given-names: "Youngsan"
+year: 2026
+version: "2026g"
+message: "If you use this package, please cite the associated manuscript and Zenodo archive."
+# doi: to be assigned by Zenodo

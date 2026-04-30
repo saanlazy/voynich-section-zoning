@@ -1,0 +1,3 @@
+condition,target_result,metric,value,status,note
+unknown_excluded,lowest H(suffix|core),biological_balneological,0.3822647940698066,robust/descriptive,computed from included sections
+unknown_excluded,highest suffix top1,biological_balneological,0.9027915264304098,robust/descriptive,computed from included sections

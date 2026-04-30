@@ -1,0 +1,71 @@
+           section_label     token  section_count  rest_count  log_odds_score
+     astronomical_zodiac   chocfhy              2           0        3.764668
+     astronomical_zodiac   oeteody              2           0        3.764668
+     astronomical_zodiac  cheedals              1           0        3.253630
+     astronomical_zodiac    okoaly              1           0        3.253630
+     astronomical_zodiac   teodain              1           0        3.253630
+     astronomical_zodiac   sheosam              1           0        3.253630
+     astronomical_zodiac  cphocthy              1           0        3.253630
+     astronomical_zodiac  ockhosam              1           0        3.253630
+     astronomical_zodiac otechodor              1           0        3.253630
+     astronomical_zodiac   qeykeey              1           0        3.253630
+biological_balneological      qoly              7           0        3.957646
+biological_balneological      loly              6           0        3.814446
+biological_balneological    rshedy              6           0        3.814446
+biological_balneological  shckhedy              6           0        3.814446
+biological_balneological    olshdy              4           0        3.446523
+biological_balneological     qolky              4           0        3.446523
+biological_balneological     olkol              3           0        3.195109
+biological_balneological     lshdy              3           0        3.195109
+biological_balneological   solkeey              3           0        3.195109
+biological_balneological  lcheckhy              3           0        3.195109
+            cosmological  oteeodar              2           0        3.609256
+            cosmological     ytory              2           0        3.609256
+            cosmological    aloees              2           0        3.609256
+            cosmological   dchokey              1           0        3.098245
+            cosmological     olair              1           0        3.098245
+            cosmological     lkech              1           0        3.098245
+            cosmological   okoeese              1           0        3.098245
+            cosmological     soeos              1           0        3.098245
+            cosmological     ytals              1           0        3.098245
+            cosmological   chekais              1           0        3.098245
+                  herbal   qotchol             13           0        4.010963
+                  herbal    choiin             12           0        3.933935
+                  herbal   chotchy             12           0        3.933935
+                  herbal   qotchor             11           0        3.850486
+                  herbal    tchody              9           0        3.659297
+                  herbal   qokchor              8           0        3.548004
+                  herbal      dsho              8           0        3.548004
+                  herbal      ctho             22           1        3.423749
+                  herbal       dom              7           0        3.422774
+                  herbal      ksho              7           0        3.422774
+          pharmaceutical     oeeor              3           0        3.788513
+          pharmaceutical  shockhey              3           0        3.788513
+          pharmaceutical   cheokal              2           0        3.451879
+          pharmaceutical        du              2           0        3.451879
+          pharmaceutical   opcheor              2           0        3.451879
+          pharmaceutical  yfolaiin              2           0        3.451879
+          pharmaceutical      qkol              2           0        3.451879
+          pharmaceutical    loiiin              2           0        3.451879
+          pharmaceutical     cfhey              2           0        3.451879
+          pharmaceutical     okeoy              2           0        3.451879
+           recipes_stars    lkeeey              7           0        3.451928
+           recipes_stars       ail              6           0        3.308759
+           recipes_stars    chedam              6           0        3.308759
+           recipes_stars    oteeey              6           0        3.308759
+           recipes_stars   qotched              5           0        3.141636
+           recipes_stars      lkal              5           0        3.141636
+           recipes_stars     arain              4           0        2.940897
+           recipes_stars   chokedy              4           0        2.940897
+           recipes_stars   lkeeedy              4           0        2.940897
+           recipes_stars     opair              4           0        2.940897
+                 unknown    okalar              4           0        3.632604
+                 unknown     orary              3           0        3.381175
+                 unknown  chepchey              3           0        3.381175
+                 unknown      ypal              3           0        3.381175
+                 unknown    otolam              2           0        3.044588
+                 unknown     alshy              2           0        3.044588
+                 unknown       ofa              2           0        3.044588
+                 unknown   sheokey              2           0        3.044588
+                 unknown   okeoldy              2           0        3.044588
+                 unknown   chcphdy              2           0        3.044588

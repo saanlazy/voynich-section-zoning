@@ -1,0 +1,36 @@
+{
+  "title": "Section-Specific Structural Zoning in the Voynich Manuscript: Global versus Section-Conditioned Models of Token Formation",
+  "creators": [
+    {
+      "name": "Chang, Youngsan"
+    }
+  ],
+  "description": "Reproduction package for a section-specific structural zoning analysis of the Voynich Manuscript. The package supports analyses of conventional visual/codicological section variation in token profiles, PCS dependency, global versus section-specific models, cross-section transfer, inventory/order decomposition, classification, change-points, unknown-folio proximity, and robustness checks.",
+  "upload_type": "software",
+  "keywords": [
+    "Voynich Manuscript",
+    "structural zoning",
+    "section-conditioned models",
+    "prefix-core-suffix",
+    "token generation",
+    "inter-token structure",
+    "computational text analysis",
+    "historical cryptology",
+    "undeciphered scripts",
+    "reproducibility"
+  ],
+  "license": "to be confirmed before upload",
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.19877135",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.19876003",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "DOI for this package is pending Zenodo deposition. This package supports a section-specific extension of the global multi-level framework presented in Chang 2026f."
+}

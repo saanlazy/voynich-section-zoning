@@ -26,3 +26,14 @@
 - Latest manuscript DOCX/PDF copied without rewriting.
 - Exact latest Markdown source was not found and was not reconstructed.
 - DOI placeholders, if present in binary manuscript files, must be replaced only after Zenodo assigns the real DOI.
+
+## Zenodo DOI Update
+
+- Zenodo package concept DOI: https://doi.org/10.5281/zenodo.19915433
+- DOI placeholder replacement completed for DOCX/PDF.
+
+## External Required Data
+
+- `data/raw/ZL3b-n.txt` is not redistributed.
+- Users must obtain the Zandbergen-Landini EVA transcription (ZL3b) from the original source and place it at `data/raw/ZL3b-n.txt` before rerunning analyses from raw text.
+- This is classified as external required data, not a package-internal missing critical file.

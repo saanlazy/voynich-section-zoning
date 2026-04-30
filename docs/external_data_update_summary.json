@@ -1,0 +1,23 @@
+{
+  "removed_raw_zl3b": true,
+  "raw_dir_files": [
+    ".gitkeep"
+  ],
+  "data_source_exists": true,
+  "readme_has_external_data_note": true,
+  "missing_report_external_required": true,
+  "manifest_has_zl3b": false,
+  "manifest_has_gitkeep": true,
+  "sha_has_zl3b": false,
+  "sha_has_gitkeep": true,
+  "zip_path": "/Users/admin/.gemini/antigravity/codex/voynich-section-zoning.zip",
+  "zip_sha256": "895062b6e16ac90f03c2cfcdc29954bddce90ddd26de1b9ed4782be8b976ffab",
+  "zip_has_git": false,
+  "zip_has_ds_store": false,
+  "zip_has_pycache": false,
+  "zip_has_pyc": false,
+  "zip_has_log": false,
+  "zip_has_zl3b": false,
+  "zip_has_gitkeep": true,
+  "zip_file_count": 157
+}

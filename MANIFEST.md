@@ -2,10 +2,10 @@
 
 | Path | Type | Size bytes | Role | Description |
 | --- | --- | ---: | --- | --- |
-| `CITATION.cff` | cff | 367 | package metadata | package metadata |
+| `CITATION.cff` | cff | 366 | package metadata | package metadata |
 | `LICENSE` | none | 417 | package metadata | package metadata |
-| `MISSING_FILES_REPORT.md` | md | 737 | package metadata | package metadata |
-| `README.md` | md | 4603 | package metadata | package metadata |
+| `MISSING_FILES_REPORT.md` | md | 1138 | package metadata | package metadata |
+| `README.md` | md | 4982 | package metadata | package metadata |
 | `data/metadata/section_metadata.csv` | csv | 16846 | metadata | metadata |
 | `data/processed/folio_change_point_scores.csv` | csv | 29775 | processed data | processed data |
 | `data/processed/folio_feature_matrix.csv` | csv | 92652 | processed data | processed data |
@@ -28,8 +28,9 @@
 | `data/processed/section_transfer_cross_entropy_matrix.csv` | csv | 1142 | processed data | processed data |
 | `data/processed/section_transfer_relative_matrix.csv` | csv | 1041 | processed data | processed data |
 | `data/processed/unknown_folio_proximity.csv` | csv | 4750 | processed data | processed data |
-| `data/raw/ZL3b-n.txt` | txt | 411671 | raw data | raw data |
+| `data/raw/.gitkeep` | none | 0 | raw data placeholder | raw data placeholder |
 | `docs/AI_USE_DISCLOSURE.md` | md | 257 | documentation | documentation |
+| `docs/DATA_SOURCE.md` | md | 735 | documentation | documentation |
 | `docs/FINAL_ASSET_RENUMBERING_SUMMARY.md` | md | 2263 | documentation | documentation |
 | `docs/HOW_TO_REPRODUCE.md` | md | 414 | documentation | documentation |
 | `docs/INTERPRETATION_GUARDRAILS.md` | md | 663 | documentation | documentation |
@@ -46,14 +47,15 @@
 | `docs/advanced_figure_captions.md` | md | 1268 | documentation | documentation |
 | `docs/advanced_results_paragraphs.md` | md | 3028 | documentation | documentation |
 | `docs/advanced_table_captions.md` | md | 801 | documentation | documentation |
+| `docs/doi_update_summary.json` | json | 1048 | documentation | documentation |
 | `docs/figure_captions.md` | md | 1450 | documentation | documentation |
 | `docs/final_figure_captions.md` | md | 1449 | documentation | documentation |
-| `docs/final_github_check_summary.json` | json | 728 | documentation | documentation |
+| `docs/final_github_check_summary.json` | json | 1174 | documentation | documentation |
 | `docs/final_manuscript_placeholders.md` | md | 2373 | documentation | documentation |
 | `docs/final_table_captions.md` | md | 1908 | documentation | documentation |
 | `docs/final_table_figure_insertion_plan.md` | md | 2102 | documentation | documentation |
 | `docs/metadata.json` | json | 1500 | documentation | documentation |
-| `docs/package_build_summary.json` | json | 1612 | documentation | documentation |
+| `docs/package_build_summary.json` | json | 2125 | documentation | documentation |
 | `docs/paper6_final_render_check.md` | md | 1044 | documentation | documentation |
 | `docs/paper6_revised_research_questions.md` | md | 686 | documentation | documentation |
 | `docs/renumbering_replace_guide.md` | md | 1489 | documentation | documentation |
@@ -62,8 +64,8 @@
 | `docs/supplementary_figure_captions.md` | md | 1031 | documentation | documentation |
 | `docs/supplementary_table_captions.md` | md | 1440 | documentation | documentation |
 | `docs/table_captions.md` | md | 1044 | documentation | documentation |
-| `manuscript/Chang_2026g_Voynich_Section_Zoning.docx` | docx | 486878 | manuscript | manuscript |
-| `manuscript/Chang_2026g_Voynich_Section_Zoning.pdf` | pdf | 657761 | manuscript | manuscript |
+| `manuscript/Chang_2026g_Voynich_Section_Zoning.docx` | docx | 484522 | manuscript | manuscript |
+| `manuscript/Chang_2026g_Voynich_Section_Zoning.pdf` | pdf | 642809 | manuscript | manuscript |
 | `outputs/figures/figure1_pcs_conditional_entropy_by_section_final.pdf` | pdf | 16508 | figure output | figure output |
 | `outputs/figures/figure1_pcs_conditional_entropy_by_section_final.png` | png | 162450 | figure output | figure output |
 | `outputs/figures/figure2_global_vs_section_pcs_model_final.pdf` | pdf | 16718 | figure output | figure output |
@@ -101,7 +103,7 @@
 | `outputs/qc/final_assets_check_report.md` | md | 1812 | QC report | QC report |
 | `outputs/qc/input_file_report.md` | md | 633 | QC report | QC report |
 | `outputs/qc/minimum_sample_check.md` | md | 532 | QC report | QC report |
-| `outputs/qc/package_validation_report.md` | md | 1530 | QC report | QC report |
+| `outputs/qc/package_validation_report.md` | md | 2017 | QC report | QC report |
 | `outputs/qc/section_classification_model_update_report.md` | md | 952 | QC report | QC report |
 | `outputs/qc/section_metadata_check.md` | md | 519 | QC report | QC report |
 | `outputs/tables/supplementary_table_s1_distinctive_tokens_by_section.csv` | csv | 3141 | table output | table output |

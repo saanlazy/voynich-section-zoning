@@ -44,9 +44,20 @@ python scripts/update_section_classification_models.py
 
 Random seed: 42. Permutation/bootstrap/shuffle experiments use N = 1000 where available; fallbacks are documented in QC reports.
 
+
+## External Required Data
+
+`ZL3b-n.txt` is third-party source data and is not redistributed in this repository/package. To reproduce analyses from raw text, obtain the Zandbergen-Landini EVA transcription (ZL3b) from the original source and place it at:
+
+```text
+data/raw/ZL3b-n.txt
+```
+
+See `docs/DATA_SOURCE.md` for details.
+
 ## Main Inputs
 
-- `data/raw/ZL3b-n.txt`
+- External required data: `data/raw/ZL3b-n.txt` (not redistributed; see `docs/DATA_SOURCE.md`)
 - `data/metadata/section_metadata.csv`
 - processed section feature matrices and classification outputs in `data/processed/`
 
@@ -89,7 +100,9 @@ AI-based tools assisted with code implementation, figure generation, manuscript 
 
 ## DOI / Zenodo Status
 
-To be updated after Zenodo deposition. DOI placeholders in the manuscript should be replaced only after Zenodo assigns the actual DOI. No placeholder has been replaced with a fabricated DOI.
+Zenodo package concept DOI: https://doi.org/10.5281/zenodo.19915433
+
+The reproduction package concept DOI has been assigned by Zenodo. No fabricated DOI values are used.
 
 ## Citation
 
